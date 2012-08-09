@@ -6,16 +6,16 @@ Gets your Swinburne Allocate+ timetable and converts it into a Google Calendar f
 
 Instructions
 ------------
-Use script.sh _userid_ _password_
+Use script.sh *userid* *password*
 
 
 Requirements / Dependencies
 ---------------------------
-_System_
+*System*
 * lynx
 * curl
 * nodejs
 
-_Node modules_
+*Node modules*
 * htmlparser
 * jsdom
