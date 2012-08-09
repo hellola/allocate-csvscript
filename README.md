@@ -4,18 +4,16 @@ allocate-csvscript
 Gets your Swinburne Allocate+ timetable and converts it into a Google Calendar friendly csv file which you can import directly using the Google's  web interface.
 
 
-Instructions
-------------
-Use script.sh *userid* *password*
+### Instructions
+Use script.sh **userid** **password**
 
 
-Requirements / Dependencies
----------------------------
-*System*
+### Requirements / Dependencies
+**System**
 * lynx
 * curl
 * nodejs
 
-*Node modules*
+**Node modules**
 * htmlparser
 * jsdom
