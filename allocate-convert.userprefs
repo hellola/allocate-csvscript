@@ -1,0 +1,32 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="allocate/AllocateEvent.cs">
+    <Files>
+      <File FileName="allocate/Program.cs" Line="1" Column="1" />
+      <File FileName="allocate/WebUtilities.cs" Line="1" Column="1" />
+      <File FileName="allocate/AllocateScraper.cs" Line="45" Column="1" />
+      <File FileName="allocate/AllocateEvent.cs" Line="25" Column="1" />
+      <File FileName="allocate/IcalCreator.cs" Line="5" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="allocate" expanded="True">
+            <Node name="AllocateEvent.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/ewoudt/Dropbox/Dev/allocate-convert/allocate/AllocateScraper.cs" line="107" column="18" />
+      <Breakpoint file="/home/ewoudt/Dropbox/Dev/allocate-convert/allocate/AllocateScraper.cs" line="45" column="1" />
+      <Breakpoint file="/home/ewoudt/Dropbox/Dev/allocate-convert/allocate/AllocateEvent.cs" line="28" column="32" />
+      <Breakpoint file="/home/ewoudt/Dropbox/Dev/allocate-convert/allocate/AllocateEvent.cs" line="21" column="2" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="allocate/AllocateScraper.cs" line="31" offsetX="620" offsetY="510" expression="matches" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
